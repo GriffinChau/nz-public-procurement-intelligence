@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="New Zealand procurement intelligence dashboard summary for 52 Auckland Transport disclosed award entries">
+<rect width="1200" height="630" fill="#0c1729"/>
+<rect x="34" y="34" width="1132" height="562" rx="23" fill="#13253b" stroke="#29425d"/>
+<text x="66" y="91" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="bold">NZ Public Procurement Intelligence</text>
+<text x="66" y="123" fill="#a8c2d6" font-family="Arial,Helvetica,sans-serif" font-size="18">Auckland Transport • Official awarded-contract disclosure • 52-row first-page pilot</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="66" y="154" width="248" height="126" rx="15" fill="#1e3a56"/>
+<text x="86" y="188" fill="#b2ccdf" font-size="17">Published entries</text><text x="86" y="245" fill="#ffffff" font-size="49" font-weight="bold">52</text>
+<rect x="331" y="154" width="248" height="126" rx="15" fill="#1e3a56"/>
+<text x="351" y="188" fill="#b2ccdf" font-size="17">Disclosed award value</text><text x="351" y="245" fill="#ffffff" font-size="44" font-weight="bold">$15.11m</text>
+<rect x="596" y="154" width="248" height="126" rx="15" fill="#1e3a56"/>
+<text x="616" y="188" fill="#b2ccdf" font-size="17">Supplier name strings</text><text x="616" y="245" fill="#ffffff" font-size="49" font-weight="bold">40</text>
+<rect x="861" y="154" width="273" height="126" rx="15" fill="#1e3a56"/>
+<text x="881" y="188" fill="#b2ccdf" font-size="17">Unique procurement IDs</text><text x="881" y="245" fill="#ffffff" font-size="49" font-weight="bold">48</text>
+<text x="66" y="337" fill="#f4f9fe" font-size="23" font-weight="bold">Exception analysis — largest disclosed entry</text>
+<text x="66" y="376" fill="#b9d0df" font-size="17">NZTA-related national land transport fund agreement</text>
+<rect x="66" y="398" width="1000" height="39" rx="7" fill="#28445f"/>
+<rect x="66" y="398" width="612" height="39" rx="7" fill="#2bc5b9"/>
+<text x="77" y="424" fill="#071b29" font-size="21" font-weight="bold">61.2% of sampled disclosed value</text>
+<text x="69" y="478" fill="#f0f6fa" font-size="22" font-weight="bold">NZ$9,250,200</text>
+<text x="66" y="537" fill="#a8c2d6" font-size="16">Real public records · Non-representative 1–10 Jul 2025 pilot · Award values are not paid spend</text>
+<text x="66" y="562" fill="#8fa9bc" font-size="14">Source: Auckland Transport FY2026 contracts-awarded PDF, page 1</text>
+</g></svg>
