@@ -1,0 +1,27 @@
+name: Validate public procurement sample
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate source and regenerate evidence
+        run: python scripts/validate_and_summarise.py
+      - name: Check expected pilot results
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          r = json.loads(Path('evidence/validation_summary.json').read_text(encoding='utf-8'))
+          assert r['sample_entries'] == 52
+          assert r['total_disclosed_award_value_nzd'] == '15111059.25'
+          assert r['unique_procurement_numbers'] == 48
+          assert all(r['qa_checks'].values()), r['qa_checks']
+          print('PASS: verified source schema, scope and rollups')
+          PY
