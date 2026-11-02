@@ -15,7 +15,7 @@
 ## Additional sources researched but not used for the pilot's amounts
 
 - [MBIE / NZ Government Procurement GETS Open Data](https://www.mbie.govt.nz/cross-government-functions/new-zealand-government-procurement-and-property/open-data): possible future source for tender/award, supplier, category and region CSVs.
-- [NZ Government Procurement — data and reporting](https://www.procurement.govt.nz/data-and-reporting/): GETS disclosures should not be treated as financial-spend ledgers.
+- [NZ Government Procurement - data and reporting](https://www.procurement.govt.nz/data-and-reporting/): GETS disclosures should not be treated as financial-spend ledgers.
 
 ## Rights and scope
 
