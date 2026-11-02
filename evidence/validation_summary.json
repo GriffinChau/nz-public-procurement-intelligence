@@ -1,0 +1,37 @@
+{
+  "source": "Auckland Transport FY2026 awarded contracts PDF, page 1",
+  "record_scope": "First 52 published entries, 2025-07-01 through 2025-07-10; nonrepresentative pilot sample",
+  "source_url": "https://at.govt.nz/media/xy2jwzgu/auckland-transport-latest-awarded-contracts-july-2026.pdf",
+  "sample_entries": 52,
+  "total_disclosed_award_value_nzd": "15111059.25",
+  "unique_supplier_name_strings": 40,
+  "unique_procurement_numbers": 48,
+  "repeated_procurement_numbers": {
+    "250-14-758-IT": 2,
+    "714-24-276-BT": 2,
+    "751-25-474-TMS": 3
+  },
+  "largest_entry": {
+    "source_row": 19,
+    "supplier": "NZTA - WELLINGTON",
+    "value_nzd": "9250200.00",
+    "pct_of_sample_value": 61.2148
+  },
+  "top_supplier": {
+    "supplier": "NZTA - WELLINGTON",
+    "value_nzd": "9250200.00",
+    "pct_of_sample_value": 61.2148
+  },
+  "qa_checks": {
+    "schema_match": true,
+    "source_row_sequence": true,
+    "nonempty_required_fields": true,
+    "valid_nonnegative_amounts": true,
+    "valid_fy2026_dates": true,
+    "pdf_source_and_page_consistent": true,
+    "supplier_rollup_reconciles": true,
+    "category_rollup_reconciles": true,
+    "daily_rollup_reconciles": true
+  },
+  "important_caveat": "The disclosed award value is not paid expenditure, accepted goods or on-time delivery. Supplier name strings and procurement IDs are not verified unique legal entities or awards. The PDF does not state GST treatment."
+}
