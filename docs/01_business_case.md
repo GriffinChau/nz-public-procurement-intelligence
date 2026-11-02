@@ -1,4 +1,4 @@
-# Business case — New Zealand public procurement award intelligence
+# Business case - New Zealand public procurement award intelligence
 
 ## Problem
 
