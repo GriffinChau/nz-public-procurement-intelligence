@@ -2,7 +2,7 @@
 
 **An independent Excel and business-analysis case study using real, publicly disclosed New Zealand contract-award entries.**
 
-![Dashboard overview](evidence/dashboard_preview.png)
+![Source-based overview of the 52-entry procurement award pilot](evidence/dashboard_overview.svg)
 
 > **Reporting basis:** Auckland Transport FY2026 awarded-contract information; **first 52 entries from page 1** of one published PDF edition. Records were created between **1–10 July 2025**. This is a limited, **non-representative pilot sample**, not annual procurement spending and not a complete GETS feed. Source data are real public disclosures; the reporting model, QA and recommendations are independent analysis.
 
